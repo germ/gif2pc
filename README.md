@@ -16,5 +16,7 @@ Demo Video: https://www.instagram.com/p/BLQUKEyAD3T/
 Workflow
 --
 go run ../main.go globe.gif
+
 ../aaRUNME.sh
+
 Import out/*.obj to Blender
