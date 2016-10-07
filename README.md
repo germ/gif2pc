@@ -10,10 +10,11 @@ Meshlab to try aproximating their shape and OBJ files are placed
 in a output directory. These OBJ files can then be loaded into
 blender for animating/exploration.
 
-Workflow
-1| go run ../main.go globe.gif
-2| ../aaRUNME.sh
-3| Import out/*.obj to Blender
-
 This is a toy, use it as you will.
 Demo Video: https://www.instagram.com/p/BLQUKEyAD3T/
+
+Workflow
+--
+go run ../main.go globe.gif
+../aaRUNME.sh
+Import out/*.obj to Blender
