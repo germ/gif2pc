@@ -11,6 +11,7 @@ in a output directory. These OBJ files can then be loaded into
 blender for animating/exploration.
 
 This is a toy, use it as you will.
+
 Demo Video: https://www.instagram.com/p/BLQUKEyAD3T/
 
 Workflow
